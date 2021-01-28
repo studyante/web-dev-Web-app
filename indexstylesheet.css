@@ -1,0 +1,9 @@
+.addbtn{
+    background-color:blue;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    
+}
